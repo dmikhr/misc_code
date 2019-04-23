@@ -1,4 +1,5 @@
-test - x\\
+test - x\
+\
 folder\
 &nbsp;&nbsp;file - descr1\
 &nbsp;&nbsp;file2 - descr\
